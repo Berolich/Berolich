@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Berolich
-- 👀 I’m interested in wed design and development
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on my fellow web developers
+- 👀 I’m interested in web design and development
+- 🌱 I’m currently learning HTML,CSS and Javascript 
+- 💞️  I’m looking to collaborate on my fellow web developers
+- My hobbies are coding, writing and reading 
   
 
 <!---
