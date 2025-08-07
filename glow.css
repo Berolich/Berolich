@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>Glowing search bar</title>
+  <style>
+  
+  </style>
+</head>
+<body>
+  <h1>
+    Like,Share and Follow me!
+  </h1>
+  <input class="glow-searchbar" type="text" placeholder="Search">
+</body>
+</html>
